@@ -2,7 +2,7 @@
 
 ### Resources
 Software: VScode, Python, Jupyter Notebook
-Libraries: Pandas, Plotly, MPU, uszipcode, 
+Libraries: Pandas, Plotly, MPU, uszipcode
 
 ## Overview
 This is a jupyter notebook that allows the user to compare two zipcodes. Displays a map showing the user-inputted zipcodes, a bar graph comparing median income and median home value, summary statistics, and the distance between the two zipcodes. All Data comes from https://pypi.org/project/uszipcode/
